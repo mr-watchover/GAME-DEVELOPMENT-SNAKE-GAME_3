@@ -26,7 +26,9 @@ Technologies Used
 C++: The main programming language used for implementing the game logic.
 SFML: A multimedia library for creating graphics, handling window creation, managing user input, and playing sound effects.
 Sound Effects: SFML also supports sound, and we will use it to add audio feedback for key events in the game.
+
 Project Workflow
+
 1. Game Setup
 The first step in creating the game is to set up the graphical window and initialize the SFML components. The game window will be created using SFML’s sf::RenderWindow, and we will set the window's dimensions (e.g., 600x400 pixels). The game will run within this window, and all graphics will be drawn on the screen.
 
