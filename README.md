@@ -80,3 +80,4 @@ The Snake Game developed in this project is a classic example of how traditional
 
 #OUTPUT OF THE TASK:
 
+![Image](https://github.com/user-attachments/assets/21f9b83e-6120-456a-960a-698135c955ab)
